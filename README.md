@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Oi, tudo bem? Esse é meu repositorio de apredizagem do Bootcamp DIO, e esse é um clone do Instagram? é coisa de iniciante, mas creio que algum dia irei dar risadas dele no futuro. 
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+
 
 ### Os requisitos são:
 
